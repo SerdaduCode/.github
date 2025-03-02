@@ -1,1 +1,2 @@
-# .github
+# SerdaduCode
+SerdaduCode adalah tim riset IT yang berdedikasi untuk mengasah keterampilan melalui kolaborasi, pelatihan, dan berbagi pengetahuan di antara para profesional dan penggemar teknologi. Dengan memusatkan perhatian pada proyek berbasis riset dan pengembangan open source, kami berusaha memperluas portfolio sambil membangun reputasi di industri teknologi. Sebagai Serdadu, kami percaya bahwa inovasi terbaik muncul dari kerja sama yang erat dan semangat berbagi.
